@@ -1,0 +1,7 @@
+DirectoryRecord[name=Kaj, surname=Persson, phoneNum=11155]
+DirectoryRecord[name=Ewa, surname=Svensson, phoneNum=12123]
+DirectoryRecord[name=Anna, surname=Nilsson, phoneNum=12345]
+DirectoryRecord[name=Per, surname=Jansson, phoneNum=22334]
+DirectoryRecord[name=Oskar, surname=Nilsson, phoneNum=43456]
+DirectoryRecord[name=Max, surname=Ohlsson, phoneNum=76578]
+DirectoryRecord[name=Ann, surname=Persson, phoneNum=87865]
